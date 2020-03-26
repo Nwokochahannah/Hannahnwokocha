@@ -1,8 +1,8 @@
 Full name: Nwokocha Hannah Sopuruchi
 
-Email: nwokochahannah@gmail.com
+Email: nwokochahannah@gmail.com.
 
-Slack username: Hannah Nwokocha
+Slack username: Hannah Nwokocha.
 
 Tracks: frontend 
 
